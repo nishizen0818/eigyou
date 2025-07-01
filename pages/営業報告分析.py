@@ -12,7 +12,7 @@ VALID_CATEGORIES = ["駅", "高速", "空港", "一般店", "量販店", "商社
 
 # ページ設定
 st.set_page_config(layout="wide")
-st.title("📊 訪問・操作履歴 分析ダッシュボード")
+st.title("📊 営業報告分析システム")
 
 # ファイルアップローダー
 uploaded_file = st.file_uploader("Excelファイル（.xlsx）をアップロード", type="xlsx")
