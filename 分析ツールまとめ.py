@@ -6,7 +6,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("ようこそ！データ分析アプリケーションへ")
+st.title("データ分析アプリ")
 st.write("以下から見たい分析ページを選択してください。")
 
 st.markdown("---")  # 区切り線
